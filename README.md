@@ -17,6 +17,8 @@ We build AI-powered software for small businesses and founders, from a single au
 
 - **[tg-relay-watchdog](https://github.com/vladosskins178/tg-relay-watchdog)**: drive a terminal or AI agent from Telegram, with a single-instance lock and a cron watchdog
 - **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls
+- **[n8n-workflow-lint](https://github.com/vladosskins178/n8n-workflow-lint)**: a zero-dependency CLI that checks exported n8n workflows for hardcoded API keys, open webhooks, missing error workflows and retries, and dead nodes
+- **[threejs-hero-starter](https://github.com/vladosskins178/threejs-hero-starter)**: a fast, mobile-friendly Three.js 3D hero section with a poster fallback and automatic quality scaling ([live demo](https://vladosskins178.github.io/threejs-hero-starter/))
 
 #### How I work
 
