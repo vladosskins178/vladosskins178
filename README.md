@@ -13,12 +13,20 @@ We build AI-powered software for small businesses and founders, from a single au
 - **[gift.vl-games.com](https://gift.vl-games.com)**: an online store for personalised gift games, where a child becomes the hero of their own story
 - **[vl-games.com](https://vl-games.com)**: our game studio, home of the mobile games we build in-house (Kosti 3D, Block Nook)
 
-#### Open source
+#### Open source and demos
 
-- **[tg-relay-watchdog](https://github.com/vladosskins178/tg-relay-watchdog)**: drive a terminal or AI agent from Telegram, with a single-instance lock and a cron watchdog
-- **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls
+**Tools**
+
 - **[n8n-workflow-lint](https://github.com/vladosskins178/n8n-workflow-lint)**: a zero-dependency CLI that checks exported n8n workflows for hardcoded API keys, open webhooks, missing error workflows and retries, and dead nodes
+- **[tg-relay-watchdog](https://github.com/vladosskins178/tg-relay-watchdog)**: drive a terminal or AI agent from Telegram, with a single-instance lock and a cron watchdog
 - **[threejs-hero-starter](https://github.com/vladosskins178/threejs-hero-starter)**: a fast, mobile-friendly Three.js 3D hero section with a poster fallback and automatic quality scaling ([live demo](https://vladosskins178.github.io/threejs-hero-starter/))
+- **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls ([try it](https://vlstudio.app/tools/missed-call-calculator/))
+
+**Reference demos and concepts** (fictional brands, built to show how we work)
+
+- **[payments-ledger-review-kit](https://github.com/vladosskins178/payments-ledger-review-kit)**: replays signed Stripe-style webhook fixtures (duplicates, out-of-order, partial refunds, payout failures) against a naive and a hardened double-entry ledger, with a failing test behind every finding
+- **[spa-app-design](https://github.com/vladosskins178/spa-app-design)**: UI/UX case study for a salon and day-spa booking app and website, with a full design system ([view case](https://vladosskins178.github.io/spa-app-design/))
+- **[tea-landing-demo](https://github.com/vladosskins178/tea-landing-demo)**: a mobile-first landing page for a craft tea brand, plain HTML and CSS ([live demo](https://vladosskins178.github.io/tea-landing-demo/))
 
 #### How I work
 
