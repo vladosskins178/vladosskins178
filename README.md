@@ -17,8 +17,9 @@ We build AI-powered software for small businesses and founders, from a single au
 
 **Tools**
 
-- **[n8n-workflow-lint](https://github.com/vladosskins178/n8n-workflow-lint)**: a zero-dependency CLI that checks exported n8n workflows for hardcoded API keys, open webhooks, missing error workflows and retries, and dead nodes
-- **[tg-relay-watchdog](https://github.com/vladosskins178/tg-relay-watchdog)**: drive a terminal or AI agent from Telegram, with a single-instance lock and a cron watchdog
+- **[n8n-doctor](https://github.com/vladosskins178/n8n-doctor)**: lint, explain and safely fix exported n8n workflows: hardcoded secrets, broken node references, webhook mistakes and risky HTTP settings. CLI, MCP server and GitHub Action
+- **[godot-ship-kit](https://github.com/vladosskins178/godot-ship-kit)**: ship Godot 4 games to Android: release checks, build size cuts, export and verify, and headless phone screenshots
+- **[agent-ops-telegram](https://github.com/vladosskins178/agent-ops-telegram)**: run a terminal AI agent from Telegram, with scheduled jobs and a watchdog that keeps it alive
 - **[threejs-hero-starter](https://github.com/vladosskins178/threejs-hero-starter)**: a fast, mobile-friendly Three.js 3D hero section with a poster fallback and automatic quality scaling ([live demo](https://vladosskins178.github.io/threejs-hero-starter/))
 - **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls ([try it](https://vlstudio.app/tools/missed-call-calculator/))
 
