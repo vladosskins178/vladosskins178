@@ -26,6 +26,7 @@ We build AI-powered software for small businesses and founders, from a single au
 **Contributions**
 
 - **[limbo_console](https://github.com/limbonaut/limbo_console/pull/98)**: fixed a single optional string argument losing its default value when a command is run with no input (merged)
+- **[Godot Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager/pull/1350)**: documented the escape backslash in conditions (merged)
 
 **Reference demos and concepts** (fictional brands, built to show how we work)
 
