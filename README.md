@@ -23,6 +23,10 @@ We build AI-powered software for small businesses and founders, from a single au
 - **[threejs-hero-starter](https://github.com/vladosskins178/threejs-hero-starter)**: a fast, mobile-friendly Three.js 3D hero section with a poster fallback and automatic quality scaling ([live demo](https://vladosskins178.github.io/threejs-hero-starter/))
 - **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls ([try it](https://vlstudio.app/tools/missed-call-calculator/))
 
+**Contributions**
+
+- **[limbo_console](https://github.com/limbonaut/limbo_console/pull/98)**: fixed a single optional string argument losing its default value when a command is run with no input (merged)
+
 **Reference demos and concepts** (fictional brands, built to show how we work)
 
 - **[payments-ledger-review-kit](https://github.com/vladosskins178/payments-ledger-review-kit)**: replays signed Stripe-style webhook fixtures (duplicates, out-of-order, partial refunds, payout failures) against a naive and a hardened double-entry ledger, with a failing test behind every finding
