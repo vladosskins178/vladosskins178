@@ -23,10 +23,15 @@ We build AI-powered software for small businesses and founders, from a single au
 - **[threejs-hero-starter](https://github.com/vladosskins178/threejs-hero-starter)**: a fast, mobile-friendly Three.js 3D hero section with a poster fallback and automatic quality scaling ([live demo](https://vladosskins178.github.io/threejs-hero-starter/))
 - **[missed-call-calculator](https://github.com/vladosskins178/missed-call-calculator)**: a one-file calculator for revenue lost to unanswered calls ([try it](https://vlstudio.app/tools/missed-call-calculator/))
 
-**Contributions**
+**Contributions** (merged upstream)
 
-- **[limbo_console](https://github.com/limbonaut/limbo_console/pull/98)**: fixed a single optional string argument losing its default value when a command is run with no input (merged)
-- **[Godot Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager/pull/1350)**: documented the escape backslash in conditions (merged)
+- **[pylint / astroid](https://github.com/pylint-dev/astroid/pull/3473)**: fixed an infinite recursion that made pylint hang on classes whose `__bool__` reads the attributes being checked; found, bisected and fixed with a regression test
+- **[fpdf2](https://github.com/py-pdf/fpdf2/pull/2136)**: `image()` now aligns the scaled image, not its box, with `keep_aspect_ratio` and `x="C"/"R"/"L"`
+- **[aiogram_dialog](https://github.com/Tishka17/aiogram_dialog/pull/538)**: reload dialog context under the stack lock when loading by intent (race condition fix)
+- **[godot-ai](https://github.com/hi-godot/godot-ai/pull/1199)**: accept node paths for typed `Array[Node]` exports in `node_set`
+- **[gdUnit4](https://github.com/godot-gdunit-labs/gdUnit4/pull/1478)**: removed an unused signal and its dead code
+- **[limbo_console](https://github.com/limbonaut/limbo_console/pull/98)**: a single optional string argument keeps its default value when a command runs with no input
+- **[Godot Dialogue Manager](https://github.com/nathanhoad/godot_dialogue_manager/pull/1350)**: documented the escape backslash in conditions
 
 **Reference demos and concepts** (fictional brands, built to show how we work)
 
