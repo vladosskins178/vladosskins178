@@ -7,6 +7,8 @@ We build AI-powered software for small businesses and founders, from a single au
 - **Platforms** · web apps, dashboards and Telegram Mini Apps
 - **Projects** · custom builds, including games and interactive 3D sites
 
+**Certified:** [Anthropic · Claude Code in Action (2026)](https://verify.skilljar.com/c/ay8if3efoywz)
+
 #### Selected work
 
 - **[vlstudio.app](https://vlstudio.app)**: our studio site, with pricing, guides and free tools
