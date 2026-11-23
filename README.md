@@ -25,6 +25,14 @@ We build AI-powered software for small businesses and founders, from a single au
 
 **Contributions** (merged upstream)
 
+- **[Pillow](https://github.com/python-pillow/Pillow/pull/10591)**: fixed a `thumbnail()` ZeroDivisionError for a target height of zero, with a regression test
+- **[Bootstrap](https://github.com/twbs/bootstrap/pull/43350)**: disabled toggle buttons keep their checked look
+- **[PixiJS](https://github.com/pixijs/pixijs/pull/12409)**: the Safari video upload default is resolved on first upload, not at import
+- **[Celery](https://github.com/celery/celery/pull/11116)**: group options are kept when a group becomes a chord header
+- **[Babylon.js](https://github.com/BabylonJS/Babylon.js/pull/19167)**: DynamicTexture keeps `invertY` and `premulAlpha` when rebuilt after a WebGL context loss
+- **[Video.js](https://github.com/videojs/video.js/pull/9762)**: popovers are positioned correctly under a transformed ancestor
+- **[Kivy](https://github.com/kivy/kivy/pull/9522)**: fixed a ZeroDivisionError when overscrolling empty content in DampedScrollEffect
+- **[telebot](https://github.com/tucnak/telebot/pull/821)**: reply parameters are sent as `reply_parameters`; the maintainer applied the fix by hand (c3d16f2) and it ships in telebot v4.0.0
 - **[pylint / astroid](https://github.com/pylint-dev/astroid/pull/3473)**: fixed an infinite recursion that made pylint hang on classes whose `__bool__` reads the attributes being checked; found, bisected and fixed with a regression test
 - **[fpdf2](https://github.com/py-pdf/fpdf2/pull/2136)**: `image()` now aligns the scaled image, not its box, with `keep_aspect_ratio` and `x="C"/"R"/"L"`
 - **[aiogram_dialog](https://github.com/Tishka17/aiogram_dialog/pull/538)**: reload dialog context under the stack lock when loading by intent (race condition fix)
