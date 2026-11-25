@@ -30,6 +30,7 @@ We build AI-powered software for small businesses and founders, from a single au
 - **[Pillow](https://github.com/python-pillow/Pillow/pull/10591)**: fixed a `thumbnail()` ZeroDivisionError for a target height of zero, with a regression test
 - **[Bootstrap](https://github.com/twbs/bootstrap/pull/43350)**: disabled toggle buttons keep their checked look (shipped in [v6.0.0-alpha.2](https://github.com/twbs/bootstrap/releases/tag/v6.0.0-alpha.2))
 - **[PixiJS](https://github.com/pixijs/pixijs/pull/12409)**: the Safari video upload default is resolved on first upload, not at import
+- **[Pyodide](https://github.com/pyodide/pyodide/pull/6584)**: `loadPyodide()` now rejects when `pyodide.asm.wasm` fails to load or instantiate, instead of hanging forever or ending the Node process
 - **[Celery](https://github.com/celery/celery/pull/11116)**: group options are kept when a group becomes a chord header
 - **[Babylon.js](https://github.com/BabylonJS/Babylon.js/pull/19167)**: DynamicTexture keeps `invertY` and `premulAlpha` when rebuilt after a WebGL context loss
 - **[Video.js](https://github.com/videojs/video.js/pull/9762)**: popovers are positioned correctly under a transformed ancestor
